@@ -8,7 +8,7 @@ from sklearn.metrics import accuracy_score
 
 
 # Load dataset
-data = pd.read_csv("iris.csv")
+data = pd.read_csv("Iris.csv")
 
 
 # Split features and target
